@@ -1,3 +1,5 @@
+#This is just a demo project for beginners.
+
 print("Welcome to the Quiz Game!")
 
 playing = input("Do you want to play? (yes/no): ")
@@ -8,7 +10,7 @@ if playing != "yes":
 print("Great! Let's get started :) " )
 
 score = 0
-
+#you can add or change questions according to your preference.
 answer = input("What does LLM stand for? ").lower()  # Convert the input to lowercase for case-insensitive comparison
 if answer == "large language model":
       print("Correct!")
