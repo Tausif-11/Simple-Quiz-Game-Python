@@ -1,8 +1,8 @@
-Quiz Game 🎮
+# Quiz Game 🎮
 
 A simple Python quiz game that tests your knowledge of AI and tech terms like LLM, API, AI, ML, and NLP.
 
-Features
+# Features
 5 beginner-friendly quiz questions
 Score tracking system
 Percentage score calculation
@@ -25,7 +25,10 @@ Conditionals
 User input
 String handling
 Basic Python logic
-License
 
-This project is licensed under the MIT License.
+
+
+# License
+
+# This project is licensed under the MIT License.
 
